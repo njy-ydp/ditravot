@@ -1,3 +1,3 @@
 # ditravot
-Discord Translator Bot
+Discord Translator Bot  
 Using NAVER Papago Translation API
